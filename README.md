@@ -1,2 +1,2 @@
 # angular-easy-treeview
-Recursion in Angular Directives
+How to Create a Recursive Angularjs Directive
