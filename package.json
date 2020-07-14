@@ -1,0 +1,29 @@
+{
+  "name": "angular-easy-treeview",
+  "version": "1.0.0",
+  "description": "AngularJS easy treeview",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^4.43.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronaldofarrapo/angular-easy-treeview.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "Recursive",
+    "Directive",
+    "Treeview"
+  ],
+  "author": "Ronaldo Farrapo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronaldofarrapo/angular-easy-treeview/issues"
+  },
+  "homepage": "https://github.com/ronaldofarrapo/angular-easy-treeview#readme"
+}
